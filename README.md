@@ -32,8 +32,6 @@ An introduction to the R statistical software for students with minimal prior ex
 
 One hour of lecture and one hour of laboratory per week. Two hours of lecture and three hours of laboratory per week for 6 weeks. 
 
-Written final exam conducted during the scheduled final exam period.
-
 ## Prerequisites
 
 
