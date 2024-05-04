@@ -15,8 +15,8 @@
 # in the templates via \{\{ site.myvariable \}\}.
 title: "Stat 33a: Introduction to Programming in R"
 tagline: Course Overview
-description: An introduction to the R statistical software for students with minimal prior experience with programming. This course prepares students for data analysis with R. The focus is on the computational model that underlies the R language with the goal of providing a foundation for coding. Topics include data types and structures, such as vectors, data frames and lists; the REPL evaluation model; function calls, argument matching, and environments; writing simple functions and control flow. Tools for reading, analyzing, and plotting data are covered, such as data input/output, reshaping data, the formula language, and graphics models.
-
+description: "An introduction to the R statistical software for students with minimal prior experience with programming. This course prepares students for data analysis with R. The focus is on the computational model that underlies the R language with the goal of providing a foundation for coding. Topics include data types and structures, such as vectors, data frames and lists; the REPL evaluation model; function calls, argument matching, and environments; writing simple functions and control flow. Tools for reading, analyzing, and plotting data are covered, such as data input/output, reshaping data, the formula language, and graphics models.
+"
 author: SCF
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat33a.berkeley.edu'
